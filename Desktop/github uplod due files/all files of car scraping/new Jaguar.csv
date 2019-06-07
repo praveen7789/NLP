@@ -1,0 +1,21 @@
+,Brand,ModelName,Varient,EngineType,CC,TransmissionType,SeatCapacity,Mileage,Price
+0,Jaguar,Jaguar XF,XF 2.0 Diesel Pure, Diesel,1999, Automatic,5,19.33,4958000.0
+1,Jaguar,Jaguar XF,XF 2.0 Diesel Prestige, Diesel,1999, Automatic,5,19.33,5476000.0
+2,Jaguar,Jaguar XF,XF 2.0 Diesel Portfolio, Diesel,1999, Automatic,5,19.33,6141000.0
+3,Jaguar,Jaguar XF,XF 2.0 Petrol Prestige, Petrol,1997, Automatic,5,10.8,5325000.0
+4,Jaguar,Jaguar XF,XF 2.0 Petrol Portfolio, Petrol,1997, Automatic,5,10.8,6075000.0
+0,Jaguar,Jaguar XJ,XJ 3.0L Premium Luxury, Diesel,2993, Automatic,5,14.47,9901000.0
+1,Jaguar,Jaguar XJ,XJ 3.0L Portfolio, Diesel,2993, Automatic,5,14.47,11000000.0
+2,Jaguar,Jaguar XJ,XJ 2.0L Portfolio, Petrol,1999, Automatic,5,9.43,10100000.0
+0,Jaguar,Jaguar F-Pace,F-Pace Prestige 2.0 AWD, Diesel,1999, Automatic,5,21.27,6357000.0
+1,Jaguar,Jaguar F-Pace,F-Pace Prestige 2.0 Petrol, Petrol,1999, Automatic,5,10.8,6317000.0
+0,Jaguar,Jaguar XE,XE 2.0L Diesel Pure, Diesel,1999, Automatic,5,13.6,4047000.0
+1,Jaguar,Jaguar XE,XE 2.0L Diesel Prestige, Diesel,1999, Automatic,5,13.6,4475000.0
+2,Jaguar,Jaguar XE,XE 2.0L Diesel Portfolio, Diesel,1999, Automatic,5,13.5,4700000.0
+3,Jaguar,Jaguar XE,XE Pure, Petrol,1999, Automatic,5,13.6,3972999.9999999995
+4,Jaguar,Jaguar XE,XE Prestige, Petrol,1999, Automatic,5,13.6,4404000.0
+0,Jaguar,Jaguar F Type,F Type 5.0 Coupe R, Petrol,5000, Automatic,5,12.5,22200000.000000004
+1,Jaguar,Jaguar F Type,F Type Convertible 2.0, Petrol,1997, Automatic,5,15.38,10100000.0
+2,Jaguar,Jaguar F Type,F Type Convertible R-Dynamic 2.0, Petrol,1997, Automatic,5,15.38,10400000.0
+3,Jaguar,Jaguar F Type,F Type Coupe 2.0, Petrol,1997, Automatic,5,15.38,9093000.0
+4,Jaguar,Jaguar F Type,F Type Coupe R-Dynamic 2.0, Petrol,1997, Automatic,5,15.38,9367000.0
